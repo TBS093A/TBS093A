@@ -8,7 +8,6 @@
 </p>
 
 ![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
-[![badge provider](https://anybadge.herokuapp.com/badge?label=create&message=your%20own%20badge)](https://github.com/TBS093A/AnyBadge)
 
 💻 I'm looking for a job
 
