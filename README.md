@@ -10,7 +10,13 @@
 ![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
 [![badge provider](https://anybadge.herokuapp.com/badge?label=create&message=your%20own%20badge)](https://github.com/TBS093A/AnyBadge)
 
-<sub><sub>Give me some stars plz :shipit:</sub></sub>
+💻 I'm looking for a job
+
+📚 I'm currently learning ML in python
+
+And
+
+⌨ I'm coding a remote 3d model rendering application with DRF + bpy (blender) 
 
 <!--
 **TBS093A/TBS093A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
