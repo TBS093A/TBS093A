@@ -9,14 +9,6 @@
 
 ![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
 
-💻 I'm looking for a job
-
-📚 I'm currently learning ML in python
-
-And
-
-⌨ I'm coding a remote 3d model rendering application with DRF + bpy (blender) 
-
 <!--
 **TBS093A/TBS093A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
