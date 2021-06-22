@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<p align="left" height="130px">
+<!-- <p align="left" height="130px">
   <a href="https://github.com/TBS093A">
     <img align="" height='100%' src="https://github-readme-stats.vercel.app/api?username=TBS093A&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0000&text_color=2f80ed&count_private=true">
     <img align="" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
   </a>
-</p>
+</p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&exclude_repo=owb-project,Armoury-Shop-Java,Snake-game,FindAndLearnBot,Horner,Falsi)](https://github.com/TBS093A/render-app-backend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&exclude_repo=owb-project,Armoury-Shop-Java,Snake-game,FindAndLearnBot,Horner,Falsi)](https://github.com/TBS093A/render-app-backend)
 
 ![TBS093A's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TBS093A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
