@@ -16,10 +16,9 @@
 <p align="center" width="100%">
   <a href="https://github.com/TBS093A">
     <img align="center" src="https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen">
+    <img align="center" src="https://komarev.com/ghpvc/?username=TBS093A&color=brightred">
   </a>
 </p>
-
-![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
 
 <!--
 **TBS093A/TBS093A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
