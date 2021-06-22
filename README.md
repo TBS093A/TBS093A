@@ -7,7 +7,7 @@
   </a>
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&langs_count=20&layout=compact&hide=cpp,Java,Makefile,css,scss,html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TBS093A/render-app-backend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&langs_count=20&layout=compact&hide=c,c++,Java,Makefile,css,scss,html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TBS093A/render-app-backend)
 
 ![TBS093A's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TBS093A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
