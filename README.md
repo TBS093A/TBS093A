@@ -15,7 +15,7 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/TBS093A">
-    <img align="center" src="https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen">
+<!--     <img align="center" src="https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen"> -->
     <img align="center" src="https://komarev.com/ghpvc/?username=TBS093A&color=red">
   </a>
 </p>
