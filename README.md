@@ -7,7 +7,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A)](https://github.com/TBS093A/render-app-backend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&exclude_repo=owb-project,Armoury-Shop-Java,Snake-game,FindAndLearnBot,Horner,Falsi)](https://github.com/TBS093A/render-app-backend)
 
 ![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
 
