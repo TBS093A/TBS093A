@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS093A&exclude_repo=owb-project,Armoury-Shop-Java,Snake-game,FindAndLearnBot,Horner,Falsi)](https://github.com/TBS093A/render-app-backend)
 
+![TBS093A's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TBS093A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ![page views](https://komarev.com/ghpvc/?username=TBS093A&color=brightgreen)
 
 <!--
