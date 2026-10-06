@@ -8,7 +8,6 @@ infrastructure reliable — from embedded-software build farms to Kubernetes clu
 
 - 🧰 Daily stack: Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHub Actions · GitLab CI · Python · Bash
 - ☁️ Clouds: AWS · Azure · OVHcloud · Hetzner (bare metal)
-- 🔍 Into: observability, root cause analysis, JVM thread/heap dump forensics, Web3 and 3D (Blender)
 - 📫 [LinkedIn](https://www.linkedin.com/in/kamil-%C5%BCuk-9551b2184/) · zukkamil.44@gmail.com
 
 ### 🛠️ Tech stack
