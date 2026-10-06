@@ -6,44 +6,10 @@ I build and run CI/CD platforms, bake security controls into software delivery a
 infrastructure reliable — from embedded-software build farms to Kubernetes clusters on bare metal.
 ~6 years in DevOps, starting as a Python/Django developer, which still shows in how much I automate.
 
-- 🔭 Currently: DevSecOps / SRE at **Aptiv** (via **Sii Poland**) — GitHub Actions, Jenkins, JFrog Artifactory, Coverity, Black Duck, Grafana
 - 🧰 Daily stack: Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHub Actions · GitLab CI · Python · Bash
 - ☁️ Clouds: AWS · Azure · OVHcloud · Hetzner (bare metal)
 - 🔍 Into: observability, root cause analysis, JVM thread/heap dump forensics, Web3 and 3D (Blender)
 - 📫 [LinkedIn](https://www.linkedin.com/in/kamil-%C5%BCuk-9551b2184/) · zukkamil.44@gmail.com
-
-### 💼 Experience
-
-| When | Role | Where |
-|---|---|---|
-| 2025 – now | **DevSecOps / Site Reliability Engineer** | Aptiv PLC · via Sii Poland |
-| 2024 – 2025 | **DevOps Engineer & Python Developer** | Sii Poland · internal projects |
-| 2023 – 2024 | **Site Reliability Engineer** | Adobe Inc · via Sii Poland |
-| 2023 | **DevOps Engineer** | Techem GmbH · via Sii Poland |
-| 2023 | **DevOps Engineer** | Sii Poland · internal projects |
-| 2022 – 2023 | **Integration Developer** | Infinidat Inc · via Sii Poland |
-| 2020 – 2022 | **DevOps Engineer** | Sembot Sp. z o.o. |
-
-<details>
-<summary><b>What I did there</b></summary>
-
-- **Aptiv** — CI/CD for embedded software: Wind River Studio → GitHub Actions migration, Jenkins, Gerrit & GitHub Enterprise,
-  JFrog Artifactory, security & quality gates (Coverity, Black Duck), secrets management, Grafana dashboards for pipeline metrics,
-  on-call support for ~40 project teams.
-- **Sii internal projects** — Azure infrastructure in Terraform, Kubernetes / Helm microservices, Ansible & Kubespray automation,
-  Jenkins and GitLab CI/CD with SonarQube.
-- **Adobe** — Root cause analysis of Adobe Experience Manager outages, JVM heap & thread dump analysis, memory leak investigations,
-  SRE dashboards in New Relic, Splunk and Grafana, Kubernetes / Linux troubleshooting.
-- **Techem** — Jenkins on Windows & Linux, CI/CD for IrDA device testing, private PyPI, Jira Xray reporting,
-  internal FastAPI + Dash dashboard for pipeline results.
-- **Infinidat** — VMware (vCenter / vSphere / ESXi), Jenkins build agents, CI/CD and integration tooling in Python & Bash.
-- **Sembot** — Servers on OVH / AWS / DigitalOcean, Nginx & Docker, Ansible + Jenkins automation, Django / DRF MerchTech tools,
-  production databases (MongoDB, Elasticsearch, MariaDB, MySQL, Redis).
-
-</details>
-
-🎓 B.Eng. in Computer Science, University of Rzeszów (2017 – 2021) — thesis: a Django + Blender rendering platform
-generating a hand-shape dataset for Polish Sign Language recognition.
 
 ### 🛠️ Tech stack
 
